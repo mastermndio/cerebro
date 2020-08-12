@@ -1,5 +1,5 @@
 ---
-title: "What is Python?"
+title: "Physics"
 metaTitle: "Let's learn about Python"
 metaDescription: "Let's learn about Pyton"
 ---
